@@ -1,2 +1,2 @@
-# 1054-midterm
+dog
 dogs or cats
