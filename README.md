@@ -1,2 +1,5 @@
 dog
-dogs or cats
+
+Members:
+Sahar MahmoudiMOtlagh 
+Aixin Zhong
